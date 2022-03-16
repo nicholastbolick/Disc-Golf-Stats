@@ -6,7 +6,7 @@ tournament results to course and weather conditions. I will then fit regression
 models to each golfer's results and try to predict what will happen in upcoming 
 tournaments. 
 
-Below I'll detail the notebooks in this repository:
+Here are the Jupyter Notebooks you'll find:
 
 golfers.ipynb
 - Webscraped PDGA's database of touring pros into a Pandas DataFrame
